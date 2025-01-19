@@ -1,0 +1,12 @@
+.one {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.button {
+    padding: 20px 70px;
+    font-size: 30px;
+}
